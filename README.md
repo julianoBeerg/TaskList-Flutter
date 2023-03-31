@@ -1,16 +1,35 @@
-# flutterprojects
+# Flutter: project Task List
 
-Primeiro projeto em Flutter
+O projeto tem como objetvo explorar alguns conceitos do Flutter como Widgets, Persistencia, Stateless e Stateful Widgets.
 
-## Getting Started
+## ✔️ Techniques and technologies
 
-This project is a starting point for a Flutter application.
+**Some technologies used :** :
+- `Widgets`
+- `Container`
+- `Stack`
+- `Column`
+- `Row`
+- `Text`
+- `ElevatedButton`
+- `Scaffold`
+- `Stateless Widget`
+- `Stateful Widget`
+- `Image`
+- `AnimatedOpacity`
+- `Refatoração`
 
-A few resources to get you started if this is your first Flutter project:
+## 🔨 Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Task List project - Aims to explore some Flutter concepts such as Widgets, Persistence, Stateless and Stateful Widgets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://raw.githubusercontent.com/Kakomo/alura_flutter_curso_1/Aula_2/flutter1_gif.gif)
+
+## 🛠️ Open e run the project
+
+**For execute this project you need:**
+
+- Have an IDE, which can be the Android Studio instaled;
+- Have a SDK do Flutter nin version 3.0.0;
+
+*Any collaboration is welcome, Thanks!*
